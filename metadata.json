@@ -1,0 +1,5 @@
+{
+  "name": "我的歌单",
+  "description": "部署在 NAS 上的个人音乐服务，支持预约播放列表、用户管理及本地音乐库同步。",
+  "requestFramePermissions": []
+}
